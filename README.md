@@ -1,5 +1,3 @@
-# Netizen Robotics
+## Netizen Robotics .github
 
-Welcome to Netizen Robotics. 
-
-Visit our [website](https://www.netizenrobotcis.com) to find out more.
+This is the special repository for github.
